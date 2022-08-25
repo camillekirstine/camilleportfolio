@@ -35,10 +35,13 @@
 
 <?php include "includes/navbar.php" ?>
 
-<main>
+<main class="container">
     <div class="row">
-        <div class="col mx-auto">
-            <img class="mx-auto pt-5" src="images/welcomepage.png">
+        <div class="col-12 col-lg-6 mx-auto">
+            <img class="presentationavatar mx-auto pt-1" src="images/presentation-avatar.png">
+        </div>
+        <div class="col-12 col-lg-6 mx-auto infobox bg-lightBlue">
+            <h1 class="text-center pt-3 frontwelcome">WELCOME!</h1>
         </div>
     </div>
 </main>

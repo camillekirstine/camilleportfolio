@@ -125,3 +125,23 @@ nav {
 .nav-link:hover {
   color: orange;
 }
+
+@media screen and (min-width: 600px) {
+  .presentationavatar {
+    height: 900px;
+    width: auto;
+  }
+}
+
+.infobox {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  border: solid 10px;
+  border-color: #24284f;
+  border-radius: 10px;
+
+}
+
+.frontwelcome {
+  color: #24284f;
+}
