@@ -59,7 +59,7 @@ a {
   height: 100px;
   color: antiquewhite;
   background-color: #ea7d24;
-  border-radius: 10%;
+  border-radius: 40px;
   border: none;
   font-size: 2rem;
 
@@ -76,20 +76,6 @@ a {
   font-size: 2.5rem;
 }
 
-@media screen and (max-width: 600px) {
-
-  .btnfront {
-    font-size: 1.5rem;
-    width: fit-content;
-    padding: 30px;
-  }
-
-  footer {
-    font-size: 0.5rem;
-
-  }
-
-}
 
 footer {
   bottom: 0%;
@@ -126,22 +112,62 @@ nav {
   color: orange;
 }
 
-@media screen and (min-width: 600px) {
-  .presentationavatar {
-    height: 900px;
-    width: auto;
-  }
-}
-
 .infobox {
   margin-bottom: 50px;
   margin-top: 50px;
   border: solid 10px;
   border-color: #24284f;
   border-radius: 10px;
+  opacity: 90%;
 
 }
 
 .frontwelcome {
   color: #24284f;
+}
+
+.btninfo {
+
+  height: 100px;
+  color: antiquewhite;
+  background-color: #ea7d24;
+  border-radius: 40px;
+  border: none;
+  width: 500px;
+}
+
+.btninfo a {
+  text-decoration: none;
+  color: antiquewhite;
+  font-size: 1.5rem;
+}
+
+.btninfo:hover {
+  background-color: #efae73;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+
+  .btnfront {
+    font-size: 1.5rem;
+    width: fit-content;
+    padding: 30px;
+  }
+
+  footer {
+    font-size: 0.5rem;
+
+  }
+
+  .btninfo {
+    width: 400px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .presentationavatar {
+    height: 900px;
+    width: auto;
+  }
 }
