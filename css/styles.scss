@@ -6,11 +6,19 @@
 
 body {
   margin: 0; /* Ingen kanter i siden af browser */
+  background-image: url("https://camillekirstine.com/background/background1.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0; /* Ingen ydre margen fra overskrifter */
   padding: 0; /* Ingen indre margen fra overskrifter */
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
 ul, ol {
@@ -26,6 +34,8 @@ li {
 p {
   margin: 0; /* Ingen ydre margen fra paragraffer */
   padding: 0; /* Ingen indre margen fra paragraffer */
+  font-family: Poppins, sans-serif;
+  font-style: normal;
 }
 
 /* Sikrer billeder er responsive */
@@ -34,3 +44,66 @@ img {
   max-width: 100%; /* Bredde må maks fylde 100% */
   height: auto; /* Højden skal tilpasse sig */
 }
+
+main {
+  min-height: calc(100vh - 130px);
+
+
+}
+
+a {
+  font-family: Poppins;
+}
+
+.btnfront {
+  height: 100px;
+  color: antiquewhite;
+  background-color: #ea7d24;
+  border-radius: 10%;
+  border: none;
+  font-size: 2rem;
+
+}
+.btnfront a {
+  color: antiquewhite;
+  text-decoration: none;
+
+}
+
+.btnfront:hover {
+  color: antiquewhite;
+  background-color: #efae73 ;
+  font-size: 3rem;
+}
+
+@media screen and (max-width: 600px) {
+
+  .btnfront {
+    font-size: 1.5rem;
+    width: fit-content;
+    padding: 30px;
+  }
+
+  footer {
+    font-size: 0.5rem;
+
+  }
+
+}
+
+footer {
+  bottom: 0%;
+  background-color: #24284f;
+  color: antiquewhite;
+  height: 130px;
+}
+
+footer a {
+  color: antiquewhite;
+  font-size: 2rem;
+}
+
+footer a:hover {
+  color: orange;
+}
+
