@@ -41,7 +41,7 @@
 
             <div class="row mb-5">
                  <button type="button" class="btnfront col-6 text-nowrap btn-lg mx-auto">
-                     <a href="#" class="mx-auto">ENTER</a>
+                     <a href="frontpage.php" class="mx-auto">ENTER</a>
                 </button>
             </div>
 
