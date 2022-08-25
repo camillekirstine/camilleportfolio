@@ -8,8 +8,8 @@
     <title>Camille Kirstine Studio</title>
 
     <meta name="robots" content="All">
-    <meta name="author" content="Udgiver">
-    <meta name="copyright" content="Information om copyright">
+    <meta name="author" content="Camille Kirstine Larsson">
+    <meta name="copyright" content="Copyright Camille Kirstine Larsson">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
@@ -18,6 +18,13 @@
     <script src="https://kit.fontawesome.com/f5df81b727.js" crossorigin="anonymous"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:CamilleKirstine" content="CamilleKirstine">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="#">
+    <meta property="og:image" content="#">
+    <meta property="og:description" content="Online portfolio and resumé for Camille Kirstine. Graphic Design, Web Design and Front-end Development.">
+    <meta property="og:locale" content="da_DK">
+    <link rel="shortcut icon" href="images/camilleki.png" type="image/x-icon">
 
 
 </head>

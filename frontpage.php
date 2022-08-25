@@ -1,33 +1,39 @@
-<!-- Instruktion til webbrowser om at vi kører HTML5 -->
+
 <!DOCTYPE html>
 
-<!-- html starter og slutter hele dokumentet / lang=da: Fortæller siden er på dansk -->
 <html lang="da">
 
-<!-- I <head> har man opsætning - det ser brugeren ikke, men det fortæller noget om siden -->
 <head>
-    <!-- Sætter tegnsætning til utf-8 som bl.a. tillader danske bogstaver -->
+
     <meta charset="utf-8">
 
-    <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Camille Kirstine Frontpage</title>
 
-    <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
-    <meta name="author" content="Udgiver">
-    <meta name="copyright" content="Information om copyright">
+    <meta name="author" content="Camille Kirstine Larsson">
+    <meta name="copyright" content="Copyright Camille Kirstine Larsson">
 
-    <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://use.typekit.net/wtu5hgz.css">
 
-    <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->
+    <script src="https://kit.fontawesome.com/f5df81b727.js" crossorigin="anonymous"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:CamilleKirstine" content="CamilleKirstine">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="#">
+    <meta property="og:image" content="#">
+    <meta property="og:description" content="Online portfolio and resumé for Camille Kirstine. Graphic Design, Web Design and Front-end Development.">
+    <meta property="og:locale" content="da_DK">
+    <link rel="shortcut icon" href="images/camilleki.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<!-- i <body> har man alt indhold på siden som brugeren kan se -->
+
 <body>
 
-<!-- Her skal sidens indhold ligge -->
+
 
 </body>
 </html>
