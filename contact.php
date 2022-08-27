@@ -47,21 +47,21 @@
 
                     <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
 
-                        <div class="m-3 fcf-form-group">
+                        <div class="m-3 fcf-form-group mx-auto">
                             <label for="Name" class="fcf-label">Name</label>
                             <div class="fcf-input-group">
                                 <input type="text" id="Name" name="Name" class="fcf-form-control" placeholder="Your name" required>
                             </div>
                         </div>
 
-                        <div class="fcf-form-group m-3">
+                        <div class="fcf-form-group mx-auto mb-3">
                             <label for="Email" class="fcf-label">E-mail</label>
                             <div class="fcf-input-group">
                                 <input type="email" id="Email" name="Email" class="fcf-form-control" placeholder="email@email.com" required>
                             </div>
                         </div>
 
-                        <div class="fcf-form-group m-4">
+                        <div class="fcf-form-group mx-auto">
                             <div class="fcf-input-group">
                                 <textarea id="Message" name="Message" class="fcf-form-control text-center" rows="6" maxlength="3000" placeholder="Your message here! :-)" required></textarea>
                             </div>

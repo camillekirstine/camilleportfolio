@@ -211,14 +211,19 @@ textarea {
   }
 
   .btninfo {
-    width: 400px;
+    width: 300px;
+  }
+
+  .btninfo a {
+    font-size :1rem;
+  }
+
+  textarea {
+    width: 300px;
   }
 
 }
 
-form select {
-  visibility: none;
-}
 
 @media screen and (min-width: 600px) {
   .presentationavatar {
