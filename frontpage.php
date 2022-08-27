@@ -7,7 +7,7 @@
 
     <meta charset="utf-8">
 
-    <title>Camille Kirstine Frontpage</title>
+    <title>Frontpage</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Camille Kirstine Larsson">
