@@ -33,9 +33,57 @@
 
 <?php include "includes/navbar.php" ?>
 
-<main>
+<main class="container">
+    <div class="row p-3">
+        <div class="col-12 col-lg-6 mx-auto infobox bg-lightBlue">
+            <h1 class="text-center pt-3 frontwelcome">CONTACT</h1>
 
+            <p class="text-center">If you have any questions, if you like my work or just feel like a chat,
+               feel free to send a message end I'll get back to you ASAP.</p>
+
+            <div class="fcf-body text-center">
+
+                <div id="fcf-form">
+
+                    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
+
+                        <div class="m-3 fcf-form-group">
+                            <label for="Name" class="fcf-label">Name</label>
+                            <div class="fcf-input-group">
+                                <input type="text" id="Name" name="Name" class="fcf-form-control" placeholder="Your name" required>
+                            </div>
+                        </div>
+
+                        <div class="fcf-form-group m-3">
+                            <label for="Email" class="fcf-label">E-mail</label>
+                            <div class="fcf-input-group">
+                                <input type="email" id="Email" name="Email" class="fcf-form-control" placeholder="email@email.com" required>
+                            </div>
+                        </div>
+
+                        <div class="fcf-form-group m-4">
+                            <div class="fcf-input-group">
+                                <textarea id="Message" name="Message" class="fcf-form-control text-center" rows="6" maxlength="3000" placeholder="Your message here! :-)" required></textarea>
+                            </div>
+                        </div>
+
+                        <div class="fcf-form-group">
+                            <button type="submit" id="fcf-button" class="btncontact mb-3 fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send Message</button>
+                        </div>
+
+                    </form>
+                </div>
+
+            </div>
+
+    </div>
 </main>
+
+
+
+</body>
+</html>
+
 
 
 <?php include "includes/footer.php" ?>

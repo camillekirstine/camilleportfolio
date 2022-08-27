@@ -53,7 +53,7 @@
 
             <div class="col col-lg-12"><button type="button" class="btninfo col-6 text-nowrap btn-lg mx-auto justify-content-center m-5"><a href="#"> Learn more about me</a></button></div>
 
-            <div class="col col-lg-12"><button type="button" class="btninfo col-6 text-nowrap btn-lg mx-auto justify-content-center m-5"><a href="#">See my contact information</a> </button></div>
+            <div class="col col-lg-12"><button type="button" class="btninfo col-6 text-nowrap btn-lg mx-auto justify-content-center m-5"><a href="contact.php">See my contact information</a> </button></div>
          </div>
 
 

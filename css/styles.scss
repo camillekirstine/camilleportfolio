@@ -147,12 +147,62 @@ nav {
   font-weight: bold;
 }
 
+input {
+  text-align: center;
+  width: 300px;
+  height: 50px;
+  font-size: 1.2rem;
+  padding: 5px;
+  border-radius: 20px;
+  border: solid;
+  border-color: #ea7d24;
+  font-family: Poppins, sans-serif;
+
+}
+
+label {
+  font-size: 1.2rem;
+  color: #24284f;
+  font-family: Poppins, sans-serif;
+  font-weight: bold;
+}
+
+textarea {
+  font-family: Poppins, sans-serif;
+  font-size: 1.2rem;
+  padding: 10px;
+  border: solid;
+  border-color: #ea7d24;
+  border-radius: 20px;
+}
+
+.btncontact {
+  height: 100px;
+  color: antiquewhite;
+  background-color: #ea7d24;
+  border-radius: 40px;
+  border: none;
+  font-size: 1.5rem;
+  padding: 20px;
+}
+
+.btncontact:hover {
+   color: antiquewhite;
+   background-color: #efae73;
+  font-size: 2rem;
+  }
+
+
 @media screen and (max-width: 600px) {
 
   .btnfront {
     font-size: 1.5rem;
     width: fit-content;
     padding: 30px;
+  }
+
+  .btnfront:hover {
+    font-size: 1.5rem;
   }
 
   footer {
@@ -163,6 +213,11 @@ nav {
   .btninfo {
     width: 400px;
   }
+
+}
+
+form select {
+  visibility: none;
 }
 
 @media screen and (min-width: 600px) {
