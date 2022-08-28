@@ -10,7 +10,7 @@
     </div>
 
     <div class="text-center col mx-auto pb-3">
-        <p>Copyright Camille Kirstine Larsson 2022</p>
+        <p>Copyright © Camille Kirstine Larsson 2022</p>
     </div>
 
 </footer>

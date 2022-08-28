@@ -23,7 +23,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="#">
     <meta property="og:image" content="#">
-    <meta property="og:description" content="Online portfolio and resumé for Camille Kirstine. Graphic Design, Web Design and Front-end Development.">
+    <meta property="og:description" content="Camille Kirstine's contact site.">
     <meta property="og:locale" content="da_DK">
     <link rel="shortcut icon" href="images/camilleki.png" type="image/x-icon">
 </head>
@@ -78,12 +78,6 @@
 
     </div>
 </main>
-
-
-
-</body>
-</html>
-
 
 
 <?php include "includes/footer.php" ?>
