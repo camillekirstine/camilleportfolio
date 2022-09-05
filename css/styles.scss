@@ -81,6 +81,7 @@ a:hover {
 
 }
 
+
 .btnfront:hover {
   color: antiquewhite;
   background-color: #efae73 ;
@@ -204,6 +205,25 @@ textarea {
   font-size: 2rem;
   }
 
+.portfoliolink:hover {
+  color: #ea7d24;
+}
+
+.logolink {
+ border: solid 10px;
+ border-color: #24284f;
+ border-radius: 10px;
+  background-color: #7795e8;
+ 
+}
+
+
+.logolink:hover {
+  border: 12px solid;
+  border-color: #ea7d24;
+  opacity: 100%;
+  background-color: #efae73;
+}
 
 @media screen and (max-width: 600px) {
 
