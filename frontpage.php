@@ -49,7 +49,7 @@
             <h5 class="text-center pt-3">You now have the following options:</h5>
 
          <div class="row mx-auto">
-             <div class="col col-lg-12"><button type="button" class="btninfo col-6 text-nowrap btn-lg mx-auto justify-content-center m-5"><a href="#">Check out my work</a></button></div>
+             <div class="col col-lg-12"><button type="button" class="btninfo col-6 text-nowrap btn-lg mx-auto justify-content-center m-5"><a href="work.php">Check out my work</a></button></div>
 
             <div class="col col-lg-12"><button type="button" class="btninfo col-6 text-nowrap btn-lg mx-auto justify-content-center m-5"><a href="resume.php"> Learn more about me</a></button></div>
 
