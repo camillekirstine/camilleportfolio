@@ -57,6 +57,13 @@ main {
 
 a {
   font-family: Poppins;
+  font-weight: bold;
+  color: #24284f;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
 }
 
 .btnfront {

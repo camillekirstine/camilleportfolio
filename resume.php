@@ -36,14 +36,14 @@
 
 <main>
     <div class="container">
-        <div class="row p-3">
+        <div class="row p-3 mx-auto">
             <div class="col-12 col-lg-6 mx-auto">
                 <img class="presentationavatar mx-auto pt-1" alt="Picture of Camille" src="images/resumephoto.png">
             </div>
             <div class="col-12 col-lg-6 mx-auto infobox bg-lightBlue">
                 <h1 class="text-center pt-3 frontwelcome">RESUME/CV</h1><br>
-                <h5>The Basics</h5>
-                <p>Hi there! My name is Camille Kirstine, and I am 27 years old. I live in the lovely towm of Korsør.
+                <h5 class="mx-auto text-center">The Basics</h5>
+                <p class="mx-auto text-center">Hi there! My name is Camille Kirstine, and I am 27 years old. I live in the lovely town of Korsør.
                 I'm currently studying multimediadesign at Zealand Business and IT Academy in Slagelse.</p><br>
 
                 <div class="row mx-auto">
@@ -58,7 +58,7 @@
                             <li>ADOBE LIGHTROOM</li>
                             <li>GRAPHIC DESIGN</li>
 
-                        </ul>
+                        </ul><br>
                     </div>
                     <div class="col-12 col-lg-6">
                         <h5>Personal skills</h5>
@@ -70,10 +70,35 @@
                             <li>WELL ARTICULATED</li>
                             <li>CREATIVE</li>
                             <li>LEADERSHIP</li>
-
-                        </ul>
+                        </ul><br>
                     </div>
-                </div>
+                    <div class="row mx-auto">
+                        <div class="col-12 col-lg-6">
+                            <h5>Work</h5>
+                            <ul>
+                                <li><b>HAIRSTYLIST</b><br>2019-2020</li>
+                                <li><b>SoMe MANAGER</b><br>2019-2020</li>
+                                <li><b>HAIRDRESSER</b><br>2016-2019</li>
+                                <li><b>SALON MANAGER</b><br>2017-2019</li>
+                            </ul><br>
+
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <h5>Education</h5>
+                            <ul>
+                                <li><b>MULTIMEDIADESIGN</b><br>2021-2023</li>
+                                <li><b>HAIRDRESSER, EUD</b><br>2014-2018</li>
+                                <li><b>2 YEAR HF</b><br>2011-2013</li>
+                                <li><b>DANISH PRIMARY SCHOOL</b><br>2000-2011</li>
+                            </ul>
+                        </div>
+                </div><br>
+                    <div class="row">
+                        <div class="col"><p>If this sparks your interest, feel free to send an e-mail through the
+                                <a class="resumelink" href="contact.php">contact</a> page.And thank your for your time! </p><br>
+                        </div>
+                    </div>
+
             </div>
         </div>
     </div>
