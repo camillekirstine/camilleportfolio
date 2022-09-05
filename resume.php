@@ -95,7 +95,7 @@
                 </div><br>
                     <div class="row">
                         <div class="col"><p>If this sparks your interest, feel free to send an e-mail through the
-                                <a class="resumelink" href="contact.php">contact</a> page.And thank your for your time! </p><br>
+                                <a class="resumelink" href="contact.php">contact</a> page. And thank your for your time! </p><br>
                         </div>
                     </div>
 
