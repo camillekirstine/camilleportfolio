@@ -68,7 +68,7 @@ a:hover {
 
 .btnfront {
   height: 100px;
-  color: antiquewhite;
+  color: ghostwhite;
   background-color: #ea7d24;
   border-radius: 40px;
   border: none;
@@ -76,7 +76,7 @@ a:hover {
 
 }
 .btnfront a {
-  color: antiquewhite;
+  color: ghostwhite;
   text-decoration: none;
 
 }
@@ -92,12 +92,12 @@ a:hover {
 footer {
   bottom: 0%;
   background-color: #24284f;
-  color: antiquewhite;
+  color: ghostwhite;
   height: 130px;
 }
 
 footer a {
-  color: antiquewhite;
+  color: ghostwhite;
   font-size: 2rem;
 }
 
@@ -116,7 +116,7 @@ nav {
 }
 
 .nav-link {
-  color: antiquewhite;
+  color: ghostwhite;
   font-size: 1.5rem;
 }
 
@@ -127,8 +127,8 @@ nav {
 .infobox {
   margin-bottom: 50px;
   margin-top: 50px;
-  border: solid 10px;
-  border-color: #33396e;
+  border: solid 8px;
+  border-color: ghostwhite;
   border-radius: 10px;
   opacity: 90%;
 
@@ -141,7 +141,7 @@ nav {
 .btninfo {
 
   height: 100px;
-  color: antiquewhite;
+  color: ghostwhite;
   background-color: #ea7d24;
   border-radius: 40px;
   border: none;
@@ -150,7 +150,7 @@ nav {
 
 .btninfo a {
   text-decoration: none;
-  color: antiquewhite;
+  color: ghostwhite;
   font-size: 1.5rem;
 }
 
@@ -158,6 +158,7 @@ nav {
   background-color: #efae73;
   font-weight: bold;
 }
+
 
 input {
   text-align: center;
@@ -191,7 +192,7 @@ textarea {
 
 .btncontact {
   height: 100px;
-  color: antiquewhite;
+  color: ghostwhite;
   background-color: #ea7d24;
   border-radius: 40px;
   border: none;
@@ -200,7 +201,7 @@ textarea {
 }
 
 .btncontact:hover {
-   color: antiquewhite;
+   color: ghostwhite;
    background-color: #efae73;
   font-size: 2rem;
   }
@@ -211,7 +212,7 @@ textarea {
 
 .logolink {
  border: solid 5px;
- border-color: #33396e;
+ border-color: ghostwhite;
  border-radius: 10px;
   background-color: #7795e8;
  
