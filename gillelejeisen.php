@@ -49,50 +49,50 @@
             <div class="carousel-inner">
                 <div class="carousel-item active mx-auto">
                     <div class="row">
-                        <img src="images/gillelejeisenimg/facebook-cover.png" class="w-75 mx-auto" alt="ticket sales poster">
+                        <img src="images/gillelejeisenimg/facebook-cover.png" class="w-75 mx-auto" alt="Cover photo for facebook">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/gillelejeisenimg/gammeldags.png" class="w-50 mx-auto col col-lg-6" alt="info screen artwork">
-                        <img src="images/gillelejeisenimg/icecup.png" class="w-50 mx-auto col col-lg-6" alt="info screen artwork">
+                        <img src="images/gillelejeisenimg/gammeldags.png" class="w-50 mx-auto col col-lg-6" alt="Ice-cream cone">
+                        <img src="images/gillelejeisenimg/icecup.png" class="w-50 mx-auto col col-lg-6" alt="Ice-cream in a cup">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/gillelejeisenimg/gillelejestrand.png" class="w-100 mx-auto col" alt="print for the music magazine Gaffa">
+                        <img src="images/gillelejeisenimg/gillelejestrand.png" class="w-100 mx-auto col" alt="Illustration of Gilleleje Strand for the website">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/gillelejeisenimg/sweatshirt.png" class="w-50 mx-auto col col-lg-6" alt="Electronic billboard artwork">
+                        <img src="images/gillelejeisenimg/sweatshirt.png" class="w-50 mx-auto col col-lg-6" alt="Example of merch: Sweatshirt">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/gillelejeisenimg/bucket.png" class="w-50 mx-auto col col-lg-6" alt="Print for the festival ticket">
+                        <img src="images/gillelejeisenimg/bucket.png" class="w-50 mx-auto col col-lg-6" alt="Example of merch: Buckethat">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/gillelejeisenimg/forklaede.png" class="w-50 mx-auto col col-lg-6" alt="Artwork for Ticketmasters website">
+                        <img src="images/gillelejeisenimg/forklaede.png" class="w-50 mx-auto col col-lg-6" alt="Example of merch: Apron">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/gillelejeisenimg/tote.png" class="w-50 mx-auto col col-lg-6" alt="Program for friday">
+                        <img src="images/gillelejeisenimg/tote.png" class="w-50 mx-auto col col-lg-6" alt="Example of merch: Totebag">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/gillelejeisenimg/Moodboard.jpg" class="w-100 mx-auto col" alt="Beercoaster with Jonah Blacksmith">
+                        <img src="images/gillelejeisenimg/Moodboard.jpg" class="w-100 mx-auto col" alt="Moodboard for the graphic work and redesign of website">
                     </div>
                 </div>
 
