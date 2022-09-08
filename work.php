@@ -49,7 +49,7 @@
         <div class="row mx-auto justify-content-center">
             <div class="logolink col-12 col-lg-2 col-md-4 m-3 pt-5 pb-5"><a href="sommerlyd.php"><img alt="sommerlyd logo" src="images/logo-02.png"></a> </div>
             <div class="logolink col-12 col-lg-2 col-md-4 m-3 pt-5 pb-5"><a href="gillelejeisen.php"><img alt="gilleleje isen logo" src="images/GIlogo.png"></a></div>
-            <div class="logolink col-12 col-lg-2 col-md-4 m-3 pt-5 pb-5"><a href="#"><img  alt="chocolate club logo" src="images/cclogo.png"></a></div>
+            <div class="logolink col-12 col-lg-2 col-md-4 m-3 pt-5 pb-5"><a href="chocolateclub.php"><img  alt="chocolate club logo" src="images/cclogo.png"></a></div>
             <div class="logolink col-12 col-lg-2 col-md-4 m-3 pb-5 pt-5"><a href="#"><h1 class="text-center pb-5 pt-5
            portfoliolink">Various<br>Projects</h1></a></div>
         </div>
