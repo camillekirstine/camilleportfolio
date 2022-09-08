@@ -71,7 +71,7 @@ a:hover {
   color: ghostwhite;
   background-color: #ea7d24;
   border-radius: 40px;
-  border: solid 3px;
+  border: none;
   font-size: 2rem;
 
 }
@@ -129,7 +129,6 @@ nav {
   margin-top: 50px;
   border: solid 8px #24284f;
   outline: solid 8px ghostwhite;
-  border-radius: 10px;
   opacity: 90%;
 
 }
@@ -214,7 +213,6 @@ textarea {
  border: solid 5px;
  border-color: #24284f;
   outline: solid 8px ghostwhite;
- border-radius: 10px;
   background-color: #7795e8;
  
 }
