@@ -6,7 +6,7 @@
 
     <meta charset="utf-8">
 
-    <title>Sommerlyd</title>
+    <title>Gilleleje Isen</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Camille Kirstine Larsson">
@@ -29,7 +29,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-
 <body>
 
 <?php include "includes/navbar.php" ?>
@@ -38,10 +37,10 @@
     <div class="container">
         <div class="row mx-auto">
             <div class="col-12 col-lg-12 bg-lightBlue infobox mx-auto">
-                <h1 class="text-center p-3 frontwelcome">SOMMERLYD</h1>
-                <p class="text-center pb-3">Sommerlyd is a festival held in Slagelse. I've worked as a volunteer on their Communications and Graphics team.
-                Throughout this work I've been responsible for their visuel identity and design style for this season (2022). I've made posters, ticketart, online ads,
-                    templates for the marketing team to use on Social Media and in general a lot the graphic designs for promotional items.</p>
+                <h1 class="text-center p-3 frontwelcome">GILLELEJE ISEN</h1>
+                <p class="text-center pb-3">Gilleleje Isen was the case project for my first exam. It is an existing ice-cream company based in
+                Gilleleje. For this case I did various marketing analytics, did graphic designs for merch and online pressence and re-designed their
+                website. You can see my redesign of the website <a href="https://camillekirstine.com/gillelejeisen/" target="_blank">here</a>! </p>
             </div>
         </div>
     </div>
@@ -50,62 +49,53 @@
             <div class="carousel-inner">
                 <div class="carousel-item active mx-auto">
                     <div class="row">
-                        <img src="images/Sommerlydimg/billetsalgsplakat.png" class="w-50 mx-auto col-lg-6" alt="ticket sales poster">
-                        <img src="images/Sommerlydimg/avisannonce185x270.png" class="w-50 mx-auto col-lg-6" alt="newspaper ad">
+                        <img src="images/gillelejeisenimg/facebook-cover.png" class="w-75 mx-auto" alt="ticket sales poster">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/Sommerlydimg/infoskaerm1.jpg" class="w-50 mx-auto col col-lg-6" alt="info screen artwork">
-                        <img src="images/Sommerlydimg/infoskaerm2.jpg" class="w-50 mx-auto col col-lg-6" alt="info screen artwork">
+                        <img src="images/gillelejeisenimg/gammeldags.png" class="w-50 mx-auto col col-lg-6" alt="info screen artwork">
+                        <img src="images/gillelejeisenimg/icecup.png" class="w-50 mx-auto col col-lg-6" alt="info screen artwork">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/Sommerlydimg/gaffaprint.jpg" class="w-100 mx-auto col col-lg-6" alt="print for the music magazine Gaffa">
+                        <img src="images/gillelejeisenimg/gillelejestrand.png" class="w-100 mx-auto col" alt="print for the music magazine Gaffa">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/Sommerlydimg/sommerlydcitrusmedia.jpg" class="w-100 mx-auto col " alt="Electronic billboard artwork">
+                        <img src="images/gillelejeisenimg/sweatshirt.png" class="w-50 mx-auto col col-lg-6" alt="Electronic billboard artwork">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/Sommerlydimg/sommerlydticket.jpg" class="w-100 mx-auto col " alt="Print for the festival ticket">
+                        <img src="images/gillelejeisenimg/bucket.png" class="w-50 mx-auto col col-lg-6" alt="Print for the festival ticket">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/Sommerlydimg/ticketmasterartwork.png" class="w-100 mx-auto col " alt="Artwork for Ticketmasters website">
+                        <img src="images/gillelejeisenimg/forklaede.png" class="w-50 mx-auto col col-lg-6" alt="Artwork for Ticketmasters website">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/Sommerlydimg/programfredag.png" class="w-50 mx-auto col col-lg-4" alt="Program for friday">
-                        <img src="images/Sommerlydimg/programlørdag.png" class="w-50 mx-auto col col-lg-4" alt="Program for saturday">
+                        <img src="images/gillelejeisenimg/tote.png" class="w-50 mx-auto col col-lg-6" alt="Program for friday">
                     </div>
                 </div>
 
                 <div class="carousel-item mx-auto">
                     <div class="row">
-                        <img src="images/Sommerlydimg/beercoaster1.png" class="w-50 mx-auto col col-lg-4" alt="Beercoaster with Jonah Blacksmith">
-                        <img src="images/Sommerlydimg/VIBESSOME.png" class="w-50 mx-auto col col-lg-4" alt="Example of SoMe post">
+                        <img src="images/gillelejeisenimg/Moodboard.jpg" class="w-100 mx-auto col" alt="Beercoaster with Jonah Blacksmith">
                     </div>
                 </div>
 
-                <div class="carousel-item mx-auto">
-                    <div class="row">
-                        <img src="images/Sommerlydimg/dejligsteboybeercoaster.png" class="w-50 mx-auto col col-lg-4" alt="Beercoaster with Benjamin Hav">
-                        <img src="images/Sommerlydimg/muckibarbeercoaster.png" class="w-50 mx-auto col col-lg-4" alt="Beercoaster with Tobias Rahim">
-                    </div>
-                </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
